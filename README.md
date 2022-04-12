@@ -1,17 +1,13 @@
 ## ⚡ Requirements:
 ```cs
-/*
   *- pip install requests
-*/
 ```
 
 ## 🐺 Features:
 ```cs
-/*
   *- Free
   *- Fast
   *- Without Login
-*/
 ```
 
 
