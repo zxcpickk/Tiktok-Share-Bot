@@ -13,8 +13,8 @@
 
 
 ## 🚀 Setup the Bot:
-```
- - Just enter the vid id xD
+```cs
+  - Just enter the vid id xD
 ```
 
 #
