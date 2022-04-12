@@ -1,20 +1,20 @@
 ## ⚡ Requirements:
 ```cs
-  *- pip install requests
+  - pip install requests
 ```
 
 ## 🐺 Features:
 ```cs
-  *- Free
-  *- Fast
-  *- Without Login
+  - Free
+  - Fast
+  - Without Login
 ```
 
 
 
 ## 🚀 Setup the Bot:
 ```
-Just enter the vid id xD
+ - Just enter the vid id xD
 ```
 
 #
