@@ -1,4 +1,4 @@
-## PATCHED - UPDATE SOOM
+## PATCHED - UPDATE SOON
 ## ⚡ Requirements:
 ```cs
   - pip install requests
