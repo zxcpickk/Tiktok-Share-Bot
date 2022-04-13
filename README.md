@@ -1,3 +1,4 @@
+## PATCHED - UPDATE SOOM
 ## ⚡ Requirements:
 ```cs
   - pip install requests
